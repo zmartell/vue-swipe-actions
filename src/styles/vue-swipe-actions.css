@@ -52,5 +52,5 @@
 }
 
 .swipeout-list-item {
-	flex: 1;
+	flex: auto;
 }
